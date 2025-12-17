@@ -35,7 +35,6 @@
 
 <p>Node.js · Django · Flask · FastAPI · .NET</p>
 
-<p>Node.js · Django · .NET · FastAPI</p>
 
 <h3>Machine Learning & Data</h3>
 <p>
