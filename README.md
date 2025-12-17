@@ -74,7 +74,7 @@ RAG (Retrieval-Augmented Generation) · Local LLM Inference · Model Integration
 
 <h2>Cloud & Infrastructure</h2>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36" />
+AWS · ORACLE  · Azure 
 </p>
 
 <p>AWS · Cloud deployment · Scalable hosting · Security-aware design</p>
