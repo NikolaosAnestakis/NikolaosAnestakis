@@ -41,8 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rag/rag-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ollama/ollama-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rag/rag-original.svg" height="30" alt="RAG" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ollama/ollama-original.svg" height="30" alt="Ollama" />
 </p>
 
 <p>NumPy · Pandas · Scikit-learn · Data Analytics · RAG · Model Integration</p>
