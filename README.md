@@ -89,7 +89,7 @@ AWS · ORACLE  · Azure
 <h2>Current Focus</h2>
 <p>
 Building thoughtful, well-structured systems that balance <strong>technical rigor</strong> with
-<strong>clarity, usability, and long-term maintainability</strong>.
+<strong>clarity, usability, secure and long-term maintainability</strong>.
   <br/>
   <br/>
 <em>Always learning.</em>
