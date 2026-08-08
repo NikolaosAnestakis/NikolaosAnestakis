@@ -1,96 +1,48 @@
-<h1>Nikolaos Anestakis</h1>
+# Nikolaos Anestakis
 
-<p>
-Software Engineer focused on delivering <strong>elegant, functional, and maintainable web solutions</strong>,
-with experience across full-stack systems, cloud-backed applications, and applied machine learning.
-</p>
+Software engineer focused on building maintainable systems across application development, APIs, automation, infrastructure, and applied machine learning.
 
-<hr/>
+## Engineering Portfolio
 
-<h2>Core Competencies</h2>
+This profile is organised to make project context, technical decisions, and engineering evidence easy to find.
 
-<p>
-Web application engineering · Backend systems · API design · Cloud-backed architectures ·
-Data analytics · Machine learning integration · System design
-</p>
+### Selected Engineering Work
 
-<hr/>
+#### Reusable Engineering
+- [aneskit](https://github.com/NikolaosAnestakis/aneskit) — reusable SCSS design-system foundations, utilities, components, CI and release workflow.
+- [release-governance-core](https://github.com/NikolaosAnestakis/release-governance-core) — reusable release-governance foundations.
 
-<h2>Languages</h2>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" />
-</p>
+#### Engineering Utilities & Experiments
+- [scraper](https://github.com/NikolaosAnestakis/scraper) — focused engineering utility / experiment.
 
-<p>Python · JavaScript · TypeScript · R · PHP · Java · C# · SQL</p>
+### Portfolio Areas
 
-<hr/>
+- **Software Engineering** — full-stack applications, backend services, API design and maintainable architecture.
+- **Networking & Automation** — network engineering labs, Python automation and API-driven infrastructure work.
+- **Reusable Engineering** — design systems, reusable components and governance tooling.
+- **Applied Data & ML** — data pipelines, model integration, evaluation and API delivery.
+- **Academic Engineering** — selected university projects presented with clear provenance and individual contribution.
 
-<h2>Frontend</h2>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="36" />
-</p>
+> Private and academic repositories are being reviewed before they are promoted into the public portfolio. Collaborative work will be identified explicitly and will not be presented as independent work.
 
-<p>HTML · CSS · SASS · React · Vite</p>
+## Engineering Practices
 
-<hr/>
+Git and GitHub workflows · Branch-based development · Pull requests · CI/CD · Testing · Documentation · API design · Security-aware implementation · Architecture and technical decision-making
 
-<h2>Backend & Runtimes</h2>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="36" />
-</p>
+## Core Technologies
 
-<p>Node.js · Django · Flask · FastAPI · .NET</p>
+**Primary:** Python · JavaScript / TypeScript · SQL · HTML / CSS / Sass
 
-<hr/>
+**Application & API:** React · Node.js · Flask · FastAPI
 
-<h2>Machine Learning & Data</h2>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" />
-</p>
+**Data & ML:** Pandas · NumPy · Scikit-learn
 
-<p>
-NumPy · Pandas · Scikit-learn · Data Analytics · R  
-<br/>
-RAG (Retrieval-Augmented Generation) · Local LLM Inference · Model Integration · Ollama
-</p>
+**Infrastructure:** Linux · Windows · macOS · AWS · Azure · Networking
 
-<hr/>
+## Current Direction
 
-<h2>Cloud & Infrastructure</h2>
-<p>
-AWS · ORACLE  · Azure 
-</p>
+Building a coherent engineering portfolio around software systems, networking, infrastructure and automation, with an emphasis on work that another engineer can understand, run, test and maintain.
 
-<p>AWS · Cloud deployment · Scalable hosting · Security-aware design</p>
+---
 
-<hr/>
-
-<h2>Development Environments</h2>
-<p>macOS · Windows · Linux</p>
-
-<hr/>
-
-<h2>Current Focus</h2>
-<p>
-Building thoughtful, well-structured systems that balance <strong>technical rigor</strong> with
-<strong>clarity, usability, secure and long-term maintainability</strong>.
-  <br/>
-  <br/>
-<em>Always learning.</em>
-</p>
+Each featured repository is expected to explain the problem, architecture, setup, testing approach, engineering decisions, limitations and next steps.
