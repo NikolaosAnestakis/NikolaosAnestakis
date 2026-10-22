@@ -7,6 +7,30 @@ with experience across full-stack systems, cloud-backed applications, and applie
 
 <hr/>
 
+<h2>Project Websites</h2>
+
+<ul>
+  <li><strong>Data Source - careers website</strong>
+    <ul>
+      <li><a href="https://nikolaosanestakis.github.io/data-source-portfolio/">Assignment 1 - responsive website</a><br/>
+        HTML and CSS, job listings and an application form.
+        <a href="https://github.com/NikolaosAnestakis/data-source-portfolio">Source code</a>
+      </li>
+      <li><a href="https://nikolaosanestakis.github.io/data-source-portfolio-new/">Assignment 2 - interactive applications</a><br/>
+        JavaScript validation, job selection, session autofill and HamburgerElegant navigation.
+        <a href="https://github.com/NikolaosAnestakis/data-source-portfolio-new">Source code</a>
+      </li>
+      <li><a href="https://nikolaosanestakis.github.io/data-source-portfolio-final/">Assignment 3 - application management demo</a><br/>
+        Application records, filtering, sorting and status updates using JSON seed data and browser storage.
+        The companion private application uses PHP and MySQL.
+        <a href="https://github.com/NikolaosAnestakis/data-source-portfolio-final">Source code</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<hr/>
+
 <h2>Core Competencies</h2>
 
 <p>
